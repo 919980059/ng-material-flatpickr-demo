@@ -12,7 +12,7 @@ This is a date component that combines [Angular Material component library Input
 * Then,npm install ng-material-flatpickr --save
 * import NgMaterialFlatpickrModule to you Angular module like
 *     imports:[ngxFlatpickrModule]
-### import:
+### input:
 
 **[label:string]** The placeholder in the MatInput;
 
