@@ -3,6 +3,7 @@
 This is a date component that combines [Angular Material component library Input](https://material.angular.io/components/input/overview), date component [flatpickr.js](https://github.com/flatpickr/flatpickr), ReactiveForm formControl, and internationalization (i18n) library [ngx-translate](https://www.npmjs.com/package/@ngx-translate/core)
 * ![view1](./images/input.png)
 * ![view1](./images/error.png)
+* ![view1](./images/time.png)
 * ![view1](./images/en.png)
 * ![view1](./images/zh.png)
 * ![view1](./images/selected.png)
